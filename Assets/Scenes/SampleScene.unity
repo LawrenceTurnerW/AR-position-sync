@@ -1292,6 +1292,7 @@ GameObject:
   - component: {fileID: 2088657141}
   - component: {fileID: 2088657140}
   - component: {fileID: 2088657139}
+  - component: {fileID: 2088657144}
   m_Layer: 0
   m_Name: Left Controller
   m_TagString: Untagged
@@ -1907,6 +1908,20 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 7779212132400271959, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_ButtonPressPoint: 0.5
+--- !u!114 &2088657144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2088657137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93ec7e24ba1755546adfac1fef1c7ebc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  point1: {fileID: 544535397697402588, guid: 73bfa80484f14da4db26524673c0bfdc, type: 3}
+  point2: {fileID: 3528701617598288510, guid: 7668edacf85325c41838e2e30ea121d4, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
