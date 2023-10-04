@@ -1922,6 +1922,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   point1: {fileID: 544535397697402588, guid: 73bfa80484f14da4db26524673c0bfdc, type: 3}
   point2: {fileID: 3528701617598288510, guid: 7668edacf85325c41838e2e30ea121d4, type: 3}
+  fakeRay: {fileID: 6892887722123370633, guid: f1af31a6ba8c673468b58ce86adfc7ff, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
